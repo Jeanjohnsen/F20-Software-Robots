@@ -12,7 +12,7 @@ This project is meant to develop a relation between a Raspberry Pi microcontroll
 * Gripper force
 * Gripper distance
 
-### Dev kits
+### Installation
 * [DevLab](http://devlab.sdu.dk)
 * [SDU Library FabLab](http://www.sdu.dk/da/fablab)
 * RS Online (small components can be ordered by supervisor – within reasonable limits)
